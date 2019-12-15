@@ -48,7 +48,7 @@ The analysis of results after the reading and math scores were taken out for the
     - The average reading score went from 93.27 to 83.89 wih a reading passing % going down from 97.31% to 80.22%.
     - The overall passing percentage drastically dropped from 95.29% to 68.29%.  This changed them from being the 2nd best overall             performing school to the very last.
 - The removal of the 9th-grade scores affected:
-    - Math and Reading scores by grade
-    - Math and Reading scores by school spending
-    - Math and Reading scores by school size
-    - Math and Reading scores by School type
+    - Math and Reading scores by grade all stayed the same except for now in the 9th grade for Thomas High School value is NaN.
+    - Math and Reading scores by school spending slightly changed. While everything else stayed the same, the only changes that happened       were in the spending range between $630-$644. The average Math Score went from 78.52 to 78.50. The average Reading Score went from       81.62 to 81.64.
+    - Since Thomas High School is categorized as a Medium Sized School (1000 to 2000 students), the Small and Large sized schools were         not affected. The Average Math Score slightly dropped from 83.37 to 83.36, with the passing % dipping from 93.59% to 88.32%. The         Average Reading Score slight increased from 83.86 to 83.87 but the passing percentage dipped from 96.79% to 91.26%.
+    - Since Thomas High School is categorized as a Charter School, District type of schools were not affected at all. Charter Schools         had a slight change with Math Scores going from 83.47 to 83.46 with a pass percentage going down from 93.62% to 90.33%.  Reading         Scores went slightly up from 83.89 to 83.90 but the pass percentage dipped from 96.59% to 93.13%.
