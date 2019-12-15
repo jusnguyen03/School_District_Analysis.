@@ -21,17 +21,17 @@ The analysis show that:
     - Average Reading Score 81.9% with a 86% passing rate
     - Overall passing rate of 80%
 - The top 5 schools in overall passing % were:
-    1. Cabrera High School
-    2. Thomas High School
-    3. Pena High School
-    4. Griffin High School
-    5. Wilson High School
+    1 - Cabrera High School
+    2 - Thomas High School
+    3 - Pena High School
+    4 - Griffin High School
+    5 - Wilson High School
 - The bottom 5 schools in overal passing % were:
-    15. Rodriguez High School
-    14. Figueroa High School
-    13. Huang High School
-    12. Johnson High School
-    11. Ford High School
+    15 - Rodriguez High School
+    14 - Figueroa High School
+    13 - Huang High School
+    12 - Johnson High School
+    11 - Ford High School
     
 ## Challenge Overview
 The grades of the ninth graders at Thomas High School have changed. While administrators do not know the full extent of this academic dishonesty, they want to uphold the standards of state testing and need my help. I will need to remove the ninth-grade math and reading scores from Thomas High School. 
